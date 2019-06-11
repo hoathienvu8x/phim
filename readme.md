@@ -8,3 +8,7 @@ docker run -d \
   -e SECRET=whatever \
   quocnguyen/phim
 ```
+
+## Test comamnd
+
+`export PORT=7777; node index.js`
